@@ -1,4 +1,4 @@
-name: Vercel-Final-Deploy
+name: Vercel-Deploy
 
 on:
   pull_request:
